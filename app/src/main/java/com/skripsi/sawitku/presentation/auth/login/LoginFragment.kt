@@ -13,7 +13,7 @@ import com.google.firebase.auth.FirebaseAuth
 import androidx.navigation.fragment.findNavController
 import com.skripsi.sawitku.R
 import com.skripsi.sawitku.databinding.FragmentLoginBinding
-import com.skripsi.sawitku.presentation.MainActivity
+import com.skripsi.sawitku.presentation.main.MainActivity
 import java.net.URLEncoder
 
 class LoginFragment : Fragment() {
