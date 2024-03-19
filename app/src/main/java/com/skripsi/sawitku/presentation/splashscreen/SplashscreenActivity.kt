@@ -1,7 +1,6 @@
 package com.skripsi.sawitku.presentation.splashscreen
 
 import android.animation.ObjectAnimator
-import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
@@ -10,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.skripsi.sawitku.databinding.ActivitySplashscreenBinding
 import com.skripsi.sawitku.presentation.auth.AuthActivity
-import com.skripsi.sawitku.presentation.MainActivity
+import com.skripsi.sawitku.presentation.main.MainActivity
 
 class SplashscreenActivity : AppCompatActivity() {
     private lateinit var binding: ActivitySplashscreenBinding
