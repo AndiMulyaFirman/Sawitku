@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">sawitku</string>
+    <string name="app_logo">logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TxtVerifikasi">Silakan periksa Email Anda untuk mengkonfirmasi alamat email Anda dan mengaktifkan akun Anda.\n\nKlik gambar di atas untuk konfirmasi!</string>
 </resources>

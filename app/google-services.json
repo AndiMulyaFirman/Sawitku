@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39404465476",
+    "project_id": "sawitku-cc6ab",
+    "storage_bucket": "sawitku-cc6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39404465476:android:0ba00d32dc7eeeb1763b11",
+        "android_client_info": {
+          "package_name": "com.skripsi.sawitku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgblqHYWTaukT8FPPpY_H48KegpdCYV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
